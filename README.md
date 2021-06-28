@@ -30,6 +30,11 @@ I am a fullstack software engineer from Brazil
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Desvendando o Next.js](https://leandro-oliveira.medium.com/desvendando-o-next-js-ebf9a4566cf9?source=rss-222e6e2c83b8------2)
+- [Clean Code: dicas para manter o seu código limpo](https://leandro-oliveira.medium.com/clean-code-dicas-para-manter-o-seu-c%C3%B3digo-limpo-45e380bcc7a7?source=rss-222e6e2c83b8------2)
+- [Os princípios do Solid e como criar softwares mais robustos](https://leandro-oliveira.medium.com/os-princ%C3%ADpios-do-solid-e-como-criar-softwares-mais-robustos-f94ebbbfdb15?source=rss-222e6e2c83b8------2)
+- [Como usar flexbox em seus projetos](https://leandro-oliveira.medium.com/como-usar-flexbox-em-seus-projetos-7d2a66afe238?source=rss-222e6e2c83b8------2)
+- [Métodos e Parâmetros HTTP](https://leandro-oliveira.medium.com/m%C3%A9todos-e-par%C3%A2metros-http-c836fbc5b40f?source=rss-222e6e2c83b8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
