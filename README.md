@@ -30,11 +30,11 @@ I am a fullstack software engineer from Brazil
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Boas práticas de Node.js para iniciantes e especialistas](https://leandro-oliveira.medium.com/boas-pr%C3%A1ticas-de-node-js-para-iniciantes-e-especialistas-769a1103704d?source=rss-222e6e2c83b8------2)
 - [Qual framework escolher para estudar em 2021: React x Angular x Vue.js](https://leandro-oliveira.medium.com/qual-framework-escolher-para-estudar-em-2021-react-x-angular-x-vue-js-643e3a8568c8?source=rss-222e6e2c83b8------2)
 - [9 tipos de profissionais de ti mais disputados no mercado](https://leandro-oliveira.medium.com/9-tipos-de-profissionais-de-ti-mais-disputados-no-mercado-7d83d3d60b92?source=rss-222e6e2c83b8------2)
 - [Fique por dentro do há de novo no React 18](https://leandro-oliveira.medium.com/fique-por-dentro-do-h%C3%A1-de-novo-no-react-18-942062e77a52?source=rss-222e6e2c83b8------2)
 - [Desvendando o Next.js](https://leandro-oliveira.medium.com/desvendando-o-next-js-ebf9a4566cf9?source=rss-222e6e2c83b8------2)
-- [Clean Code: dicas para manter o seu código limpo](https://leandro-oliveira.medium.com/clean-code-dicas-para-manter-o-seu-c%C3%B3digo-limpo-45e380bcc7a7?source=rss-222e6e2c83b8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
