@@ -1,5 +1,5 @@
-### Hello World 👋
-I am a fullstack software engineer from Brazil 
+### Hello, folks 👋
+I am a fullstack software engineer from Brazil. I believe that technology can<br>empowers us to create amazing things that contribute to making the wolrd a better place.
 
 - 🔭 Working on multiple frontend and backend project using react, nodejs and .net
 - 🌱 Learning design patterns in depth
