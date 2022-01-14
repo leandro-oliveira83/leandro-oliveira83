@@ -30,7 +30,7 @@ I am a fullstack software engineer from Brazil. I believe that technology can<br
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Node.js best practices for beginners and experts](https://leandro-oliveira.medium.com/node-js-best-practices-for-beginners-and-experts-7fb64c832ce2?source=rss-222e6e2c83b8------2)
+- [Node.js best practices for beginners and experts](https://javascript.plainenglish.io/node-js-best-practices-for-beginners-and-experts-7fb64c832ce2?source=rss-222e6e2c83b8------2)
 - [Roadmap to Becoming a Front-end Developer in 2022](https://javascript.plainenglish.io/roadmap-to-becoming-a-front-end-developer-in-2022-bee59be7dfdc?source=rss-222e6e2c83b8------2)
 - [Roadmap para se tornar um desenvolvedor Frontend ainda em 2021](https://leandro-oliveira.medium.com/roadmap-para-se-tornar-um-desenvolvedor-frontend-ainda-em-2021-b7f38ad60740?source=rss-222e6e2c83b8------2)
 - [Melhorando o seu terminal com Oh My Zsh e mais](https://leandro-oliveira.medium.com/melhorando-o-seu-terminal-com-oh-my-zsh-e-mais-4435a4ce6f19?source=rss-222e6e2c83b8------2)
