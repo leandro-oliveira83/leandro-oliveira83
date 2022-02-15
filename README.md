@@ -30,7 +30,7 @@ I am a fullstack software engineer from Brazil. I believe that technology can<br
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Clean Code: Tips to keep your code clean](https://javascript.plainenglish.io/clean-code-tips-to-keep-your-code-clean-bb8a0ff8f5c3?source=rss-222e6e2c83b8------2)
+- [Clean Code: Tips to Keep Your Code Clean](https://javascript.plainenglish.io/clean-code-tips-to-keep-your-code-clean-bb8a0ff8f5c3?source=rss-222e6e2c83b8------2)
 - [How to Upgrade Your Terminal with Oh My Zsh and More](https://javascript.plainenglish.io/upgrading-your-terminal-with-oh-my-zsh-and-more-fa58d61d21d3?source=rss-222e6e2c83b8------2)
 - [JavaScript Vs TypeScript: What’s the Difference Between The Two](https://javascript.plainenglish.io/javascript-vs-typescript-whats-the-difference-between-the-two-91d8ff3e135e?source=rss-222e6e2c83b8------2)
 - [Node.js best practices for beginners and experts](https://javascript.plainenglish.io/node-js-best-practices-for-beginners-and-experts-7fb64c832ce2?source=rss-222e6e2c83b8------2)
